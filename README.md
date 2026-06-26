@@ -4,6 +4,8 @@ A collection of 15 Claude Skills that audit, improve, and scale paid ad campaign
 
 Built and tested by [Rananjay Raj](https://www.linkedin.com/in/rananjayraj/) across $500K+ in ad spend on 8 client accounts. Full write-up and results: [The AI-Driven Marketer](https://theaidrivenmarketer.beehiiv.com/p/paid-advertising-agent-complete-skill-library).
 
+Please leave a star so that this reaches other marketers like yourself. 
+
 ## What's inside
 
 | Skill | Suite | What it does |
